@@ -1,0 +1,7 @@
+C:\visualstudio\JwtAuthForBooks.Interfaces\JwtAuthForBooks.Interfaces\obj\Debug\net7.0\JwtAuthForBooks.csproj.AssemblyReference.cache
+C:\visualstudio\JwtAuthForBooks.Interfaces\JwtAuthForBooks.Interfaces\obj\Debug\net7.0\JwtAuthForBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\visualstudio\JwtAuthForBooks.Interfaces\JwtAuthForBooks.Interfaces\obj\Debug\net7.0\JwtAuthForBooks.AssemblyInfoInputs.cache
+C:\visualstudio\JwtAuthForBooks.Interfaces\JwtAuthForBooks.Interfaces\obj\Debug\net7.0\JwtAuthForBooks.AssemblyInfo.cs
+C:\visualstudio\JwtAuthForBooks.Interfaces\JwtAuthForBooks.Interfaces\obj\Debug\net7.0\JwtAuthForBooks.csproj.CoreCompileInputs.cache
+C:\visualstudio\JwtAuthForBooks.Interfaces\JwtAuthForBooks.Interfaces\obj\Debug\net7.0\JwtAuthForBooks.MvcApplicationPartsAssemblyInfo.cs
+C:\visualstudio\JwtAuthForBooks.Interfaces\JwtAuthForBooks.Interfaces\obj\Debug\net7.0\JwtAuthForBooks.MvcApplicationPartsAssemblyInfo.cache
